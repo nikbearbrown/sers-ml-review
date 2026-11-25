@@ -10,7 +10,8 @@ A review manuscript in preparation (2026). It examines how preprocessing, data s
 
 ## Status
 
-- Draft manuscript; not submitted to a venue.
+- The manuscript is written. It has not been submitted to a venue.
+- This paper is not open for new contributors.
 - The editable source is not in this repo yet. Only the compiled PDF is here.
 
 ## Related
