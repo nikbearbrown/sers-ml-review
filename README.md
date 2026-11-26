@@ -18,4 +18,4 @@ A review manuscript in preparation (2026). It examines how preprocessing, data s
 
 - [hspgit/RAMAN-Effect](https://github.com/hspgit/RAMAN-Effect): the companion experimental paper on 1D ResNets versus plain CNNs for low-SNR bacterial Raman spectra.
 
-This repo is private.
+This repo is public so readers can see where the paper stands.
